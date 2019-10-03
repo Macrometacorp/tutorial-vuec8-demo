@@ -4,9 +4,8 @@ import { vuec8 } from "vuec8";
 
 Vue.use(vuec8, {
   auth: {
-    tenant: "",
+    email: "",
     password: "",
-    user: ""
   },
   config: ""
 });
